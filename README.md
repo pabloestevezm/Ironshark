@@ -3,7 +3,7 @@
 # Sharks Favourite Meal
 
 
-        ![alt text](r'../Input/tiburon.jpeg)
+        
 
 
  ### Motivación y contenido  
